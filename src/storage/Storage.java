@@ -1,7 +1,7 @@
-package Storage;
+package storage;
 
-import Models.Cruzeiro;
-import Models.Porto;
+import models.Cruzeiro;
+import models.Porto;
 
 import java.util.ArrayList;
 

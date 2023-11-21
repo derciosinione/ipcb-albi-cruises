@@ -1,6 +1,6 @@
 package menu;
 
-import Storage.Storage;
+import storage.Storage;
 
 import java.awt.BorderLayout;
 import java.awt.Component;

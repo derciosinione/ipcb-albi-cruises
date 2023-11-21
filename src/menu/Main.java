@@ -10,10 +10,9 @@ import java.time.LocalDate;
 import java.time.LocalTime;
 import java.time.format.DateTimeFormatter;
 import java.util.ArrayList;
-import java.util.Locale;
 
-import Models.*;
-import Storage.Storage;
+import models.*;
+import storage.Storage;
 
 public class Main {
 
@@ -196,6 +195,15 @@ public class Main {
 		long preco=Long.parseLong(info[1]);
 		int numLugares=Integer.parseInt(info[2]);
 		Excursao excursao = new Excursao(nome,preco,numLugares);
+
+//		var index = escalaIndex-1;
+//
+//		var escala = escalas.get(index);
+////		if (escalas.size()>0){
+////			escalas.get(escalaIndex-1).addExcursao(excursao);
+////		}
+//
+//		var ds = 1;
 	}
 
 	private static void adicionarExperiencia(String linha) {
