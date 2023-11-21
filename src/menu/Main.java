@@ -91,21 +91,19 @@ public class Main {
 			// TODO processar cruzeiros -> Done
 			String linha;
 			int contador=0;
-			int totalCruzeiro = 0;
+//			int totalCruzeiro = 0;
 			int identificador = 0;
 			boolean estaEmEscala = false;
-			Cruzeiro cruzeiro = new Cruzeiro();
 
 			while ((linha = fin.readLine()) != null) {
 
 				if (contador==0){
-					totalCruzeiro = Integer.parseInt(linha);
+//					totalCruzeiro = Integer.parseInt(linha);
 					contador++;
 					continue;
 				}
 
 				if (linha.contains("----")){
-					cruzeiro = new Cruzeiro();
 					identificador=0;
 					estaEmEscala = false;
 
