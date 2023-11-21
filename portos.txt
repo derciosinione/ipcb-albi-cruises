@@ -1,0 +1,9 @@
+BSA	Barragem de Santa Águeda
+PRM	Póvoa de Rio de Moinhos
+SAC	Salgueiro do Campo
+CTB	Castelo Branco
+BEN	Benquerenças
+SOF	Sobral Fernando
+VBE	Vale da Bezerra
+PAD	Padrão
+BPC	Barragem da Pracana

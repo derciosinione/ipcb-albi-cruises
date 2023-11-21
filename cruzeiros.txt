@@ -1,0 +1,329 @@
+10
+------------------------------------------------------------------
+1	Descendo o Ocreza	10/11/2023	5	600	9
+Bella	Aurea	Yatch
+1	BSA	-	18:0:0	0
+2	PRM	8:0:0	18:0:0	2
+Visita pedestre a Póvoa de Rio de Moinhos	37	40
+Visita em areobus a Póvoa de Rio de Moinhos	42	40
+3	SAC	8:0:0	18:0:0	2
+Visita pedestre a Salgueiro do Campo	40	40
+Visita em areobus a Salgueiro do Campo	45	40
+4	CTB	8:0:0	18:0:0	6
+Visita ao Castelo e Cidade Antiga	50	30
+Visita ao centro da cidade	40	30
+Visita à zona comercial	40	30
+Visita em open bus a Castelo Branco	52	30
+Visita pedestre a Taberna Seca	35	20
+Visita pedestre a Vilares de Baixo	35	20
+5	BEN	8:0:0	18:0:0	5
+Visita Pedestre a Benquerenças	40	40
+Visita em open bus a Benquerenças	45	40
+Visita em open bus a Calvos e a Teixugueira	36	30
+Visita em open bus a Versadas e a Nave	36	30
+Visita em open bus a Malhadil e a Vale da Sertã	36	30
+6	SOF	8:0:0	18:0:0	3
+Visita Pedestre a Sobral Fernando	40	40
+Visita Pedestre a Foz do Cobrão	40	40
+Visita em open bus a Sobral Fernando e Foz do Cobrão	50	40
+7	VBE	8:0:0	18:0:0	2
+Visita Pedestre a Vale da Bezerra	32	40
+Visita em open bus a Vale da Bezerra	37	40
+8	PAD	8:0:0	18:0:0	4
+Visita Pedestre a Padrão	32	40
+Visita em open bus a Padrão	37	40
+Visita em open bus a Riscada	37	40
+Visita em open bus a Juncal	37	40
+9	BPC	10:0:0	-	0
+------------------------------------------------------------------
+2	Subindo o Ocreza	10/11/2023	200	600	9
+Bella	Aurea	Yatch
+1	BPC	-	18:0:0	0
+2	PAD	8:0:0	18:0:0	4
+Visita Pedestre a Padrão	32	40
+Visita em open bus a Padrão	37	40
+Visita em open bus a Riscada	37	40
+Visita em open bus a Juncal	37	40
+3	VBE	8:0:0	18:0:0	2
+Visita Pedestre a Vale da Bezerra	32	40
+Visita em open bus a Vale da Bezerra	37	40
+4	SOF	8:0:0	18:0:0	3
+Visita Pedestre a Sobral Fernando	40	40
+Visita Pedestre a Foz do Cobrão	40	40
+Visita em open bus a Sobral Fernando e Foz do Cobrão	50	40
+5	BEN	8:0:0	18:0:0	5
+Visita Pedestre a Benquerenças	40	40
+Visita em open bus a Benquerenças	45	40
+Visita em open bus a Calvos e a Teixugueira	36	30
+Visita em open bus a Versadas e a Nave	36	30
+Visita em open bus a Malhadil e a Vale da Sertã	36	30
+6	CTB	8:0:0	18:0:0	6
+Visita ao Castelo e Cidade Antiga	50	30
+Visita ao centro da cidade	40	30
+Visita à zona comercial	40	30
+Visita em open bus a Castelo Branco	52	30
+Visita pedestre a Taberna Seca	35	20
+Visita pedestre a Vilares de Baixo	35	20
+7	SAC	8:0:0	18:0:0	2
+Visita pedestre a Salgueiro do Campo	40	40
+Visita em areobus a Salgueiro do Campo	45	40
+8	PRM	8:0:0	18:0:0	2
+Visita pedestre a Póvoa de Rio de Moinhos	37	40
+Visita em areobus a Póvoa de Rio de Moinhos	42	40
+9	BSA	-	18:0:0	0
+------------------------------------------------------------------
+3	Descendo o Ocreza	19/11/2023	200	600	9
+Bella	Aurea	Yatch
+1	BSA	-	18:0:0	0
+2	PRM	8:0:0	18:0:0	2
+Visita pedestre a Póvoa de Rio de Moinhos	37	40
+Visita em areobus a Póvoa de Rio de Moinhos	42	40
+3	SAC	8:0:0	18:0:0	2
+Visita pedestre a Salgueiro do Campo	40	40
+Visita em areobus a Salgueiro do Campo	45	40
+4	CTB	8:0:0	18:0:0	6
+Visita ao Castelo e Cidade Antiga	50	30
+Visita ao centro da cidade	40	30
+Visita à zona comercial	40	30
+Visita em open bus a Castelo Branco	52	30
+Visita pedestre a Taberna Seca	35	20
+Visita pedestre a Vilares de Baixo	35	20
+5	BEN	8:0:0	18:0:0	5
+Visita Pedestre a Benquerenças	40	40
+Visita em open bus a Benquerenças	45	40
+Visita em open bus a Calvos e a Teixugueira	36	30
+Visita em open bus a Versadas e a Nave	36	30
+Visita em open bus a Malhadil e a Vale da Sertã	36	30
+6	SOF	8:0:0	18:0:0	3
+Visita Pedestre a Sobral Fernando	40	40
+Visita Pedestre a Foz do Cobrão	40	40
+Visita em open bus a Sobral Fernando e Foz do Cobrão	50	40
+7	VBE	8:0:0	18:0:0	2
+Visita Pedestre a Vale da Bezerra	32	40
+Visita em open bus a Vale da Bezerra	37	40
+8	PAD	8:0:0	18:0:0	4
+Visita Pedestre a Padrão	32	40
+Visita em open bus a Padrão	37	40
+Visita em open bus a Riscada	37	40
+Visita em open bus a Juncal	37	40
+9	BPC	10:0:0	-	0
+------------------------------------------------------------------
+4	Subindo o Ocreza	19/11/2023	200	550	9
+Bella	Aurea	Yatch
+1	BPC	-	18:0:0	0
+2	PAD	8:0:0	18:0:0	4
+Visita Pedestre a Padrão	32	40
+Visita em open bus a Padrão	37	40
+Visita em open bus a Riscada	37	40
+Visita em open bus a Juncal	37	40
+3	VBE	8:0:0	18:0:0	2
+Visita Pedestre a Vale da Bezerra	32	40
+Visita em open bus a Vale da Bezerra	37	40
+4	SOF	8:0:0	18:0:0	3
+Visita Pedestre a Sobral Fernando	40	40
+Visita Pedestre a Foz do Cobrão	40	40
+Visita em open bus a Sobral Fernando e Foz do Cobrão	50	40
+5	BEN	8:0:0	18:0:0	5
+Visita Pedestre a Benquerenças	40	40
+Visita em open bus a Benquerenças	45	40
+Visita em open bus a Calvos e a Teixugueira	36	30
+Visita em open bus a Versadas e a Nave	36	30
+Visita em open bus a Malhadil e a Vale da Sertã	36	30
+6	CTB	8:0:0	18:0:0	6
+Visita ao Castelo e Cidade Antiga	50	30
+Visita ao centro da cidade	40	30
+Visita à zona comercial	40	30
+Visita em open bus a Castelo Branco	52	30
+Visita pedestre a Taberna Seca	35	20
+Visita pedestre a Vilares de Baixo	35	20
+7	SAC	8:0:0	18:0:0	2
+Visita pedestre a Salgueiro do Campo	40	40
+Visita em areobus a Salgueiro do Campo	45	40
+8	PRM	8:0:0	18:0:0	2
+Visita pedestre a Póvoa de Rio de Moinhos	37	40
+Visita em areobus a Póvoa de Rio de Moinhos	42	40
+9	BSA	-	18:0:0	0
+------------------------------------------------------------------
+5	Descendo o Ocreza	28/11/2023	200	550	9
+Bella	Aurea	Yatch
+1	BSA	-	18:0:0	0
+2	PRM	8:0:0	18:0:0	2
+Visita pedestre a Póvoa de Rio de Moinhos	37	40
+Visita em areobus a Póvoa de Rio de Moinhos	42	40
+3	SAC	8:0:0	18:0:0	2
+Visita pedestre a Salgueiro do Campo	40	40
+Visita em areobus a Salgueiro do Campo	45	40
+4	CTB	8:0:0	18:0:0	6
+Visita ao Castelo e Cidade Antiga	50	30
+Visita ao centro da cidade	40	30
+Visita à zona comercial	40	30
+Visita em open bus a Castelo Branco	52	30
+Visita pedestre a Taberna Seca	35	20
+Visita pedestre a Vilares de Baixo	35	20
+5	BEN	8:0:0	18:0:0	5
+Visita Pedestre a Benquerenças	40	40
+Visita em open bus a Benquerenças	45	40
+Visita em open bus a Calvos e a Teixugueira	36	30
+Visita em open bus a Versadas e a Nave	36	30
+Visita em open bus a Malhadil e a Vale da Sertã	36	30
+6	SOF	8:0:0	18:0:0	3
+Visita Pedestre a Sobral Fernando	40	40
+Visita Pedestre a Foz do Cobrão	40	40
+Visita em open bus a Sobral Fernando e Foz do Cobrão	50	40
+7	VBE	8:0:0	18:0:0	2
+Visita Pedestre a Vale da Bezerra	32	40
+Visita em open bus a Vale da Bezerra	37	40
+8	PAD	8:0:0	18:0:0	4
+Visita Pedestre a Padrão	32	40
+Visita em open bus a Padrão	37	40
+Visita em open bus a Riscada	37	40
+Visita em open bus a Juncal	37	40
+9	BPC	10:0:0	-	0
+------------------------------------------------------------------
+6	Subindo o Ocreza	28/11/2023	200	550	9
+Bella	Aurea	Yatch
+1	BPC	-	18:0:0	0
+2	PAD	8:0:0	18:0:0	4
+Visita Pedestre a Padrão	32	40
+Visita em open bus a Padrão	37	40
+Visita em open bus a Riscada	37	40
+Visita em open bus a Juncal	37	40
+3	VBE	8:0:0	18:0:0	2
+Visita Pedestre a Vale da Bezerra	32	40
+Visita em open bus a Vale da Bezerra	37	40
+4	SOF	8:0:0	18:0:0	3
+Visita Pedestre a Sobral Fernando	40	40
+Visita Pedestre a Foz do Cobrão	40	40
+Visita em open bus a Sobral Fernando e Foz do Cobrão	50	40
+5	BEN	8:0:0	18:0:0	5
+Visita Pedestre a Benquerenças	40	40
+Visita em open bus a Benquerenças	45	40
+Visita em open bus a Calvos e a Teixugueira	36	30
+Visita em open bus a Versadas e a Nave	36	30
+Visita em open bus a Malhadil e a Vale da Sertã	36	30
+6	CTB	8:0:0	18:0:0	6
+Visita ao Castelo e Cidade Antiga	50	30
+Visita ao centro da cidade	40	30
+Visita à zona comercial	40	30
+Visita em open bus a Castelo Branco	52	30
+Visita pedestre a Taberna Seca	35	20
+Visita pedestre a Vilares de Baixo	35	20
+7	SAC	8:0:0	18:0:0	2
+Visita pedestre a Salgueiro do Campo	40	40
+Visita em areobus a Salgueiro do Campo	45	40
+8	PRM	8:0:0	18:0:0	2
+Visita pedestre a Póvoa de Rio de Moinhos	37	40
+Visita em areobus a Póvoa de Rio de Moinhos	42	40
+9	BSA	-	18:0:0	0
+------------------------------------------------------------------
+7	Descendo o Ocreza	7/12/2023	200	550	9
+Bella	Aurea	Yatch
+1	BSA	-	18:0:0	0
+2	PRM	8:0:0	18:0:0	2
+Visita pedestre a Póvoa de Rio de Moinhos	37	40
+Visita em areobus a Póvoa de Rio de Moinhos	42	40
+3	SAC	8:0:0	18:0:0	2
+Visita pedestre a Salgueiro do Campo	40	40
+Visita em areobus a Salgueiro do Campo	45	40
+4	CTB	8:0:0	18:0:0	6
+Visita ao Castelo e Cidade Antiga	50	30
+Visita ao centro da cidade	40	30
+Visita à zona comercial	40	30
+Visita em open bus a Castelo Branco	52	30
+Visita pedestre a Taberna Seca	35	20
+Visita pedestre a Vilares de Baixo	35	20
+5	BEN	8:0:0	18:0:0	5
+Visita Pedestre a Benquerenças	40	40
+Visita em open bus a Benquerenças	45	40
+Visita em open bus a Calvos e a Teixugueira	36	30
+Visita em open bus a Versadas e a Nave	36	30
+Visita em open bus a Malhadil e a Vale da Sertã	36	30
+6	SOF	8:0:0	18:0:0	3
+Visita Pedestre a Sobral Fernando	40	40
+Visita Pedestre a Foz do Cobrão	40	40
+Visita em open bus a Sobral Fernando e Foz do Cobrão	50	40
+7	VBE	8:0:0	18:0:0	2
+Visita Pedestre a Vale da Bezerra	32	40
+Visita em open bus a Vale da Bezerra	37	40
+8	PAD	8:0:0	18:0:0	4
+Visita Pedestre a Padrão	32	40
+Visita em open bus a Padrão	37	40
+Visita em open bus a Riscada	37	40
+Visita em open bus a Juncal	37	40
+9	BPC	10:0:0	-	0
+------------------------------------------------------------------
+8	Subindo o Ocreza	7/12/2023	200	550	9
+Bella	Aurea	Yatch
+1	BPC	-	18:0:0	0
+2	PAD	8:0:0	18:0:0	4
+Visita Pedestre a Padrão	32	40
+Visita em open bus a Padrão	37	40
+Visita em open bus a Riscada	37	40
+Visita em open bus a Juncal	37	40
+3	VBE	8:0:0	18:0:0	2
+Visita Pedestre a Vale da Bezerra	32	40
+Visita em open bus a Vale da Bezerra	37	40
+4	SOF	8:0:0	18:0:0	3
+Visita Pedestre a Sobral Fernando	40	40
+Visita Pedestre a Foz do Cobrão	40	40
+Visita em open bus a Sobral Fernando e Foz do Cobrão	50	40
+5	BEN	8:0:0	18:0:0	5
+Visita Pedestre a Benquerenças	40	40
+Visita em open bus a Benquerenças	45	40
+Visita em open bus a Calvos e a Teixugueira	36	30
+Visita em open bus a Versadas e a Nave	36	30
+Visita em open bus a Malhadil e a Vale da Sertã	36	30
+6	CTB	8:0:0	18:0:0	6
+Visita ao Castelo e Cidade Antiga	50	30
+Visita ao centro da cidade	40	30
+Visita à zona comercial	40	30
+Visita em open bus a Castelo Branco	52	30
+Visita pedestre a Taberna Seca	35	20
+Visita pedestre a Vilares de Baixo	35	20
+7	SAC	8:0:0	18:0:0	2
+Visita pedestre a Salgueiro do Campo	40	40
+Visita em areobus a Salgueiro do Campo	45	40
+8	PRM	8:0:0	18:0:0	2
+Visita pedestre a Póvoa de Rio de Moinhos	37	40
+Visita em areobus a Póvoa de Rio de Moinhos	42	40
+9	BSA	-	18:0:0	0
+------------------------------------------------------------------
+9	Natal no Ocreza	23/12/2023	200	750	5
+Aurea	Yatch
+1	BSA	-	18:0:0	0
+2	SAC	8:0:0	18:0:0	3
+Visita pedestre a Salgueiro do Campo	40	40
+Visita em areobus a Salgueiro do Campo	45	40
+Jantar de Natal	70	40	 
+3	CTB	8:0:0	23:0:0	3
+Almoço de Natal e visita ao Castelo	80	30
+Almoço de Natal e visita a Taberna Seca	80	30
+Almoço de Natal e Espetáculo Noturno	80	30
+4	BEN	8:0:0	18:0:0	5
+Visita Pedestre a Benquerenças	40	40
+Visita em open bus a Benquerenças	45	40
+Visita em open bus a Calvos e a Teixugueira	36	30
+Visita em open bus a Versadas e a Nave	36	30
+Visita em open bus a Malhadil e a Vale da Sertã	36	30
+5	BPC	10:0:0	-	0
+------------------------------------------------------------------
+10	S. Valentim no Ocreza	12/2/2024	200	450	5
+Aurea	Yatch
+1	BSA	-	18:0:0	0
+2	SAC	8:0:0	18:0:0	2
+Visita pedestre a Salgueiro do Campo	40	40
+Visita em areobus a Salgueiro do Campo	45	40
+3	CTB	8:0:0	23:0:0	6
+Visita ao Castelo e Cidade Antiga	50	30
+Visita ao centro da cidade	40	30
+Visita em open bus a Castelo Branco	52	30
+Jantar romântico no camarote	50	40
+Jantar romântico na Piscina Praia	60	30
+Jantar romântico em barco a remos	30	40
+4	BEN	8:0:0	18:0:0	5
+Visita Pedestre a Benquerenças	40	40
+Visita em open bus a Benquerenças	45	40
+Visita em open bus a Calvos e a Teixugueira	36	30
+Visita em open bus a Versadas e a Nave	36	30
+Visita em open bus a Malhadil e a Vale da Sertã	36	30
+5	BPC	10:0:0	-	0
